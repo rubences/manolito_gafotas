@@ -1,7 +1,14 @@
+turtle
+sqlalchemy
+colorama
+pickle5
+pygame
 ipywidgets==7.7.1
+python-math
 matplotlib
 numpy
 pandas
 torch
 torchvision==0.13.1
+scikit-learn
 tqdm==4.64.0
